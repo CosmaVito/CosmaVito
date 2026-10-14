@@ -20,6 +20,10 @@ I build security into the delivery pipeline: static analysis, dependency and sec
 **Performance**
 - JavaScript and TypeScript memory leaks, Entity Framework query tuning, ThreadPool starvation
 
+**Tooling**
+- Claude and GitHub Copilot every day for development, analysis, debugging and documentation
+- Agentic workflows with planning, extended thinking and reusable skills
+
 **Websites for small businesses**
 - Static sites built with Astro and deployed on Cloudflare
 - Cookie consent designed around the guidelines of the Italian Data Protection Authority (Garante)
@@ -33,4 +37,5 @@ I like taking things apart to see how they work, and explaining what I find on I
 
 - Website: [cosmavito.github.io](https://cosmavito.github.io)
 - [LinkedIn](https://www.linkedin.com/in/cosma-vito-iaffaldano-955350ba/)
+- Instagram: [@cosmaiaffa](https://www.instagram.com/cosmaiaffa/)
 - Email: [iaffaldanocosma@gmail.com](mailto:iaffaldanocosma@gmail.com)
