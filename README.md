@@ -16,6 +16,7 @@ I build security into the delivery pipeline: static analysis, dependency and sec
 - CI/CD security gates with SAST, SCA, Trivy and Gitleaks, plus SBOM and CVE tracking
 - Release documentation aligned with the EU Cyber Resilience Act
 - GDPR by design: data minimisation and pseudonymisation
+- [cra-trail](https://github.com/CosmaVito/cra-trail), my open-source CLI that builds Cyber Resilience Act evidence packs (SBOM, scans, VEX, Annex I evaluation) and gates the release
 
 **Performance**
 - JavaScript and TypeScript memory leaks, Entity Framework query tuning, ThreadPool starvation
