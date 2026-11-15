@@ -1,6 +1,6 @@
 # Cosma Vito Iaffaldano
 
-Technical Lead & Delivery Manager, with more than 10 years in enterprise web applications. I take projects from the first analysis with the client to the production release: I design the architecture, lead the team and still write code every day in .NET and Angular.
+Technical Lead & Delivery Manager, working on enterprise web applications since 2016. I take projects from the first analysis with the client to the production release: I design the architecture, lead the team and still write code every day in .NET and Angular.
 
 I build security into the delivery pipeline: static analysis, dependency and secret scanning and an SBOM run on every build, and a release that fails them does not ship.
 
